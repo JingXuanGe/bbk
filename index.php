@@ -1,2 +1,2 @@
 <?php
- echo 'this is "rukou"';
+ echo 'this is "home"';
